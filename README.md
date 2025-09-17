@@ -1,6 +1,6 @@
 # MLPredUni
 
-![Image Alt](https://github.com/larissa-cb/MLPredUni/blob/main/Banner%20(1).png?raw=true).
+![Image Alt](https://github.com/larissa-cb/MLPredUni/blob/main/Banner%20(1).png?raw=true)
 
 Este proyecto tiene como finalidad contribuir a la reducción del abandono académico en la educación superior, utilizando técnicas de aprendizaje automático para identificar a los estudiantes en riesgo de fracaso en una etapa temprana de su trayectoria académica, de modo que se puedan poner en marcha estrategias para apoyarlos. Se utiliza un conjunto de datos de una institución de educación superior para construir modelos de clasificación que permitan predecir el rendimiento académico de los estudiantes. 
 
