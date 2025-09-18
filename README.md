@@ -1,5 +1,4 @@
-# Sistema Predictivo de Deserción Universitaria con Machine Learning: 
-# Análisis de Impacto y Herramientas de Intervención Temprana
+# Sistema Predictivo de Deserción Universitaria con Machine Learning: Análisis de Impacto y Herramientas de Intervención Temprana
 
 ![Image Alt](https://github.com/larissa-cb/MLPredUni/blob/main/Banner%20(1).png?raw=true)
 
