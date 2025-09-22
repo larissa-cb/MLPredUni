@@ -21,3 +21,69 @@ Key technical achievements include:
 The practical implementation includes an interactive web application built with Streamlit that enables academic advisors to input student data and receive instant risk assessments with personalized intervention recommendations. The system's impact analysis projects potential benefits of preventing 300-350 dropouts annually with an estimated return on investment of 14.94:1.
 
 This work demonstrates the significant potential of machine learning approaches to enhance student retention strategies while providing institutions with actionable tools for early intervention and resource optimization.
+
+# Data Structure of the University Dropout Prediction System
+
+## Student Information We Analyze
+
+**Personal Details:**
+- Age, gender, and marital status
+- Nationality and international student status
+- Family background and parents' education
+
+**Academic History:**
+- Previous education grades and qualifications
+- Admission exam scores
+- Chosen university course and application method
+
+**University Performance:**
+- Number of courses taken each semester
+- Grades achieved in first and second semesters
+- Courses passed vs courses failed
+- Attendance patterns
+
+**Financial Situation:**
+- Scholarship status
+- Tuition fee payment status
+- Whether the student has unpaid debts
+
+**External Factors:**
+- Local unemployment rates
+- Economic conditions and inflation
+- Whether student comes from rural area
+
+## How the System Works
+
+**Data Processing:**
+- Combines all student information
+- Identifies important patterns
+- Creates new helpful indicators like academic efficiency
+
+**Prediction Engine:**
+- Uses smart algorithms to analyze risk
+- Compares new students to historical patterns
+- Calculates dropout probability
+
+**Results Provided:**
+- Low risk (likely to graduate)
+- Medium risk (may need support) 
+- High risk (likely to drop out)
+- Specific reasons for the risk level
+- Recommended support actions
+
+## Key Findings
+
+**Most Important Warning Signs:**
+1. Poor grades in second semester courses
+2. Low academic efficiency
+3. Late tuition payments
+4. Low course completion rates
+5. No scholarship support
+
+**System Performance:**
+- Correctly identifies 93 out of 100 at-risk students
+- Very few false alarms
+- Works equally well for different student groups
+- Provides 6-12 months early warning
+
+This structure allows universities to help students before it's too late, using actual academic data to guide support efforts.
