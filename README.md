@@ -22,7 +22,7 @@ The practical implementation includes an interactive web application built with 
 
 This work demonstrates the significant potential of machine learning approaches to enhance student retention strategies while providing institutions with actionable tools for early intervention and resource optimization.
 
-# # Data Structure of the University Dropout Prediction System
+## Data Structure: 
 ## Student Information I Analyzed
 
 **Personal Details:**
