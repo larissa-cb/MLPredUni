@@ -87,7 +87,7 @@ This work demonstrates the significant potential of machine learning approaches 
 
 This structure allows universities to help students before it's too late, using actual academic data to guide support efforts.
 
-# Executive Summary
+## Executive Summary
 
 ## **The Problem**
 - Nearly 1 in 3 students leaves university before completing their degree
