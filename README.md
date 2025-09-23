@@ -136,4 +136,4 @@ This structure allows universities to help students before it's too late, using 
 - **Scalable solution** for universities of all sizes
 
 ## **Bottom Line**
-This system transforms how universities support students—moving from reactive crisis management to proactive success planning, creating better outcomes for students and stronger institutions for our communities.
+This system transforms how universities support students — moving from reactive crisis management to proactive success planning, creating better outcomes for students and stronger institutions for our communities.
