@@ -114,7 +114,7 @@ This structure allows universities to help students before it's too late, using 
 - **Medium risk** (18%): Benefit from ongoing support
 - **Low risk** (50%): Likely to graduate successfully
 
-![Image Alt]()
+![Image Alt](https://github.com/larissa-cb/MLPredUni/blob/main/feature_importance.png)
 
 ## **Practical Benefits**
 
