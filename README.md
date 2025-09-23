@@ -86,6 +86,7 @@ This work demonstrates the significant potential of machine learning approaches 
 - Provides 6-12 months early warning
 
 This structure allows universities to help students before it's too late, using actual academic data to guide support efforts.
+![Image Alt](https://github.com/larissa-cb/MLPredUni/pred-de-uni.streamlit.app.jpeg)
 
 ## Executive Summary
 
