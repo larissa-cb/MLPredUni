@@ -18,6 +18,12 @@ Key technical achievements include:
 - Successfully handling class imbalance through SMOTE-ENN techniques
 - Identifying the most influential predictive features, particularly second-semester academic performance indicators
 
+The metrics are defined as follows for the “Dropout” class: 
+- Precision: Of all students labeled as at risk of dropping out, how many actually drop out? High precision indicates reliability in alerts (few false positives). 
+- Recall: Of all learners who actually drop out, how many does the model manage to identify? A high recall indicates good detection capability (few false negatives). 
+- F1-Score: Harmonic mean between Precision and Recall. Provides a single measure of the balance between the two. A high F1-Score is the goal for the critical class. 
+- Accuracy: Total percentage of correct predictions.
+
 The practical implementation includes an interactive web application built with Streamlit that enables academic advisors to input student data and receive instant risk assessments with personalized intervention recommendations. The system's impact analysis projects potential benefits of preventing 300-350 dropouts annually with an estimated return on investment of 14.94:1.
 
 This work demonstrates the significant potential of machine learning approaches to enhance student retention strategies while providing institutions with actionable tools for early intervention and resource optimization.
