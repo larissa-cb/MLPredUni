@@ -83,7 +83,7 @@ This work demonstrates the significant potential of machine learning approaches 
 2. Low academic efficiency
 3. Late tuition payments
 4. Low course completion rates
-5. No scholarship support
+5. Low positive grades in the second semester
 
 **System Performance:**
 - Correctly identifies 93 out of 100 at-risk students
