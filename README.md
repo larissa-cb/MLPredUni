@@ -114,6 +114,7 @@ This structure allows universities to help students before it's too late, using 
 - **Tuition payment status** significantly impacts retention  
 - **Academic efficiency** (courses passed vs attempted) matters most
 - **Scholarship support** greatly improves completion rates
+  
 As can be seen in the picture below
 
 ### **Student Risk Categories:**
