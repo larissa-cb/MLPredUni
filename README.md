@@ -1,6 +1,6 @@
 ## Predictive System for University Dropouts Using Machine Learning: Impact Analysis and Early Intervention Tools
 
-![Image Alt](https://github.com/larissa-cb/MLPredUni/blob/main/Banner%20(1).png?raw=true)
+![Image Alt](https://github.com/larissa-cb/MLPredUni/blob/main/image1.png)
 
 ## Background
 
